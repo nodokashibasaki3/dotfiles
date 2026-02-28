@@ -1,0 +1,2 @@
+# dotfiles
+nodoka's .config :)
