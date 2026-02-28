@@ -1,2 +1,2 @@
 # dotfiles
-nodoka's .config :)
+nodoka's dotfiles.
